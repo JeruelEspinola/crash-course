@@ -1,4 +1,4 @@
 Name: Jeruel Espinola	
 Section: BSCS-1A
-Program:
-Address:
+Program:BS Computer Science
+Address: Brgy. VI-E, San Pablo City
